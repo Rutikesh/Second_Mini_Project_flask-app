@@ -1,1 +1,2 @@
-# Second_Mini_Project_flask-app
+# flask-app-ecs
+Simple flask app to be run on ECS
